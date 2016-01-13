@@ -1,6 +1,6 @@
 # Xcode-Dynamic-Library-Template
 Xcode only supports Static Library template. Install this template and create your own Dynamic Library!
-
+Be aware that it only support versions under Xcode 6.4 (6.4 included). However, you can use you projects created by Xcode 6.4 in newer Xcode version.
 
 # How to Install
 1. Copy "iPhoneOSPackageTypes.xcspec" and "iPhoneOSProductTypes.xcspec" to the following path: (replace them if exist.)
